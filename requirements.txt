@@ -1,0 +1,6 @@
+﻿websocket-client
+python-dotenv
+supabase
+joblib
+scikit-learn
+ta
